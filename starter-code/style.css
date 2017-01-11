@@ -10,6 +10,7 @@ body {
 	height: 50%;
 	width: 50%;
 	display: inline-block;
+	margin: 0 auto;
 }
 
 .card {
@@ -39,6 +40,7 @@ nav a {
 	display: block;
 	float: left;
 }
+
 
 nav a:hover {
 	background-color: #ee5f3c;
